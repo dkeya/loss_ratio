@@ -1,0 +1,101 @@
+Employee_ID,Age,Gender,Employment_Type,Previous_Claims,Chronic_Conditions,Family_History,Policy_Type,Sum_Insured,Deductible,Co_Payment,Enrollment_Duration,Last_Year_Claims,Annual_Premium
+EMP001,50,Male,Full-time,13219,Asthma,Diabetes,Comprehensive,1000000,5000,10,45,7580,43000
+EMP002,50,Female,Full-time,25944,None,Heart Disease,Comprehensive,1000000,5000,10,25,14836,35000
+EMP003,54,Male,Full-time,56323,Diabetes,None,Inpatient Only,750000,5000,15,54,30496,41000
+EMP004,39,Male,Contract,40741,None,Diabetes,Inpatient Only,300000,0,0,9,24345,23000
+EMP005,22,Female,Full-time,8842,None,None,Comprehensive,300000,5000,20,30,5513,36000
+EMP006,47,Female,Contract,27951,"Hypertension, Asthma",None,Comprehensive,750000,5000,0,15,12503,33000
+EMP007,45,Male,Full-time,52956,None,Diabetes,Inpatient Only,300000,0,10,16,32292,43000
+EMP008,32,Female,Part-time,53054,Hypertension,None,Inpatient Only,300000,0,0,17,24824,28000
+EMP009,41,Male,Full-time,10629,None,Diabetes,Comprehensive,500000,0,0,19,4476,28000
+EMP010,35,Male,Full-time,12470,Diabetes,Diabetes,Inpatient Only,500000,5000,10,57,7907,31000
+EMP011,37,Male,Contract,52772,Diabetes,Diabetes,Comprehensive,500000,15000,0,7,21243,39000
+EMP012,34,Male,Full-time,57523,Asthma,None,Comprehensive,1000000,5000,10,11,28061,31000
+EMP013,38,Female,Part-time,961,"Diabetes, Hypertension",Cancer,Comprehensive,1000000,5000,10,34,635,31000
+EMP014,25,Male,Full-time,8549,None,None,Inpatient+Outpatient,1000000,10000,10,47,4756,22000
+EMP015,45,Female,Full-time,32624,Hypertension,None,Comprehensive,500000,10000,0,40,16245,23000
+EMP016,45,Female,Full-time,59752,Asthma,None,Inpatient Only,300000,10000,20,33,25116,24000
+EMP017,35,Male,Full-time,9817,None,None,Comprehensive,750000,5000,0,57,4585,39000
+EMP018,55,Male,Full-time,15154,Diabetes,None,Comprehensive,300000,15000,15,57,8859,27000
+EMP019,34,Male,Full-time,64561,Diabetes,Diabetes,Inpatient+Outpatient,750000,10000,10,25,32722,43000
+EMP020,24,Male,Full-time,103372,"Diabetes, Hypertension",None,Inpatient Only,500000,15000,10,7,41438,48000
+EMP021,28,Male,Full-time,964,None,None,Comprehensive,1000000,5000,20,38,480,26000
+EMP022,28,Female,Full-time,9154,Hypertension,Diabetes,Comprehensive,300000,0,0,22,5621,27000
+EMP023,53,Male,Full-time,43586,None,None,Comprehensive,750000,10000,10,6,20577,41000
+EMP024,43,Female,Contract,82682,Hypertension,"Diabetes, Heart Disease",Inpatient Only,1000000,0,0,52,33895,38000
+EMP025,39,Female,Full-time,18026,Diabetes,None,Comprehensive,1000000,10000,0,15,7862,48000
+EMP026,37,Female,Full-time,15572,None,Diabetes,Comprehensive,500000,0,0,44,7005,34000
+EMP027,58,Male,Full-time,43060,None,None,Comprehensive,500000,5000,0,24,18431,28000
+EMP028,45,Female,Full-time,105456,None,None,Inpatient+Outpatient,500000,5000,0,40,48675,49000
+EMP029,24,Male,Full-time,8569,None,Cancer,Inpatient Only,300000,5000,15,12,4170,48000
+EMP030,24,Female,Part-time,20574,None,Diabetes,Comprehensive,750000,5000,10,3,11076,24000
+EMP031,32,Female,Full-time,34010,Asthma,Heart Disease,Inpatient Only,500000,0,0,57,14136,26000
+EMP032,40,Female,Full-time,114678,Diabetes,Heart Disease,Comprehensive,500000,10000,0,17,47979,47000
+EMP033,30,Male,Full-time,8986,Diabetes,"Diabetes, Heart Disease",Comprehensive,300000,15000,20,32,4658,31000
+EMP034,33,Female,Full-time,38706,Hypertension,Heart Disease,Comprehensive,500000,5000,0,24,19202,40000
+EMP035,23,Female,Full-time,48188,Asthma,None,Comprehensive,300000,5000,0,50,19769,27000
+EMP036,37,Male,Contract,90687,Hypertension,Diabetes,Inpatient Only,750000,10000,0,39,45431,39000
+EMP037,42,Female,Full-time,1732,None,"Diabetes, Heart Disease",Inpatient Only,300000,0,0,10,826,22000
+EMP038,47,Female,Full-time,25512,"Hypertension, Asthma",None,Comprehensive,300000,5000,0,31,11844,29000
+EMP039,52,Male,Full-time,54465,Hypertension,Diabetes,Comprehensive,300000,5000,0,42,31878,43000
+EMP040,46,Male,Full-time,37947,None,Diabetes,Comprehensive,300000,5000,15,28,17950,22000
+EMP041,59,Male,Full-time,2681,Diabetes,None,Inpatient Only,500000,10000,0,9,1322,25000
+EMP042,24,Male,Full-time,13726,Hypertension,None,Inpatient+Outpatient,500000,10000,0,39,7764,22000
+EMP043,51,Female,Contract,30911,Heart Disease,None,Inpatient Only,750000,10000,0,59,15749,23000
+EMP044,38,Male,Full-time,65151,Diabetes,None,Comprehensive,1000000,5000,15,44,30828,32000
+EMP045,42,Female,Full-time,9540,Diabetes,None,Inpatient Only,750000,5000,15,49,5243,40000
+EMP046,25,Male,Part-time,26676,Diabetes,None,Comprehensive,750000,0,20,33,11539,45000
+EMP047,49,Male,Full-time,37698,None,None,Inpatient+Outpatient,750000,5000,10,49,17534,23000
+EMP048,55,Female,Full-time,80512,Diabetes,None,Comprehensive,750000,5000,20,20,47814,43000
+EMP049,29,Female,Part-time,1485,None,None,Inpatient Only,750000,0,10,18,860,27000
+EMP050,32,Male,Part-time,16416,Hypertension,None,Comprehensive,750000,10000,0,19,8710,30000
+EMP051,30,Male,Full-time,55937,None,"Diabetes, Heart Disease",Inpatient+Outpatient,750000,5000,15,11,25740,49000
+EMP052,52,Male,Contract,55470,None,None,Comprehensive,300000,5000,10,56,34953,37000
+EMP053,36,Male,Full-time,7648,Diabetes,None,Comprehensive,1000000,5000,0,12,4999,50000
+EMP054,30,Male,Full-time,19378,Diabetes,None,Inpatient Only,500000,10000,0,15,8775,23000
+EMP055,44,Male,Full-time,60319,Diabetes,Diabetes,Inpatient Only,300000,0,10,15,24445,46000
+EMP056,32,Male,Full-time,76128,None,None,Comprehensive,500000,10000,10,59,32759,34000
+EMP057,46,Male,Full-time,8371,"Diabetes, Hypertension","Diabetes, Heart Disease",Comprehensive,500000,5000,0,23,4813,48000
+EMP058,23,Male,Part-time,19356,Hypertension,None,Comprehensive,750000,5000,0,14,8592,21000
+EMP059,36,Male,Full-time,27356,None,None,Inpatient+Outpatient,1000000,15000,0,41,14158,27000
+EMP060,50,Female,Part-time,42265,None,None,Comprehensive,750000,10000,0,56,18565,22000
+EMP061,35,Male,Full-time,8152,Hypertension,None,Comprehensive,1000000,5000,20,55,4359,26000
+EMP062,37,Male,Part-time,21343,None,Diabetes,Comprehensive,500000,0,0,48,12610,40000
+EMP063,35,Female,Full-time,27608,Asthma,None,Inpatient Only,500000,5000,0,33,15401,29000
+EMP064,49,Male,Full-time,59281,Diabetes,Heart Disease,Inpatient+Outpatient,1000000,5000,15,18,27010,26000
+EMP065,46,Female,Full-time,2425,None,None,Inpatient Only,1000000,0,0,19,1187,22000
+EMP066,30,Female,Full-time,34785,None,None,Comprehensive,1000000,5000,15,33,18725,39000
+EMP067,59,Male,Part-time,32505,Asthma,Diabetes,Inpatient Only,300000,0,15,35,13894,20000
+EMP068,53,Male,Full-time,58967,Diabetes,None,Inpatient Only,300000,0,0,34,25647,25000
+EMP069,48,Male,Full-time,15342,Hypertension,Diabetes,Comprehensive,1000000,15000,15,30,7390,43000
+EMP070,39,Other,Full-time,9903,Diabetes,Heart Disease,Inpatient Only,1000000,5000,15,39,6384,22000
+EMP071,35,Male,Full-time,36315,Diabetes,None,Comprehensive,300000,0,0,23,20389,32000
+EMP072,37,Female,Full-time,52344,Hypertension,None,Inpatient Only,1000000,5000,0,24,31069,33000
+EMP073,45,Male,Full-time,4533,Hypertension,Heart Disease,Inpatient Only,300000,0,0,51,2573,34000
+EMP074,41,Female,Full-time,15633,Heart Disease,Diabetes,Comprehensive,1000000,10000,0,6,7053,31000
+EMP075,24,Female,Full-time,47827,Hypertension,Heart Disease,Inpatient+Outpatient,1000000,0,15,11,30500,42000
+EMP076,35,Male,Full-time,77875,Diabetes,None,Comprehensive,750000,5000,15,29,39150,35000
+EMP077,50,Male,Full-time,1768,"Hypertension, Asthma",None,Comprehensive,750000,10000,0,55,819,34000
+EMP078,38,Female,Contract,34946,None,None,Comprehensive,300000,5000,0,58,17403,42000
+EMP079,43,Female,Contract,26127,None,None,Inpatient+Outpatient,500000,15000,20,31,15315,24000
+EMP080,27,Male,Full-time,43471,None,None,Comprehensive,500000,10000,0,49,27196,24000
+EMP081,31,Female,Full-time,1078,None,"Diabetes, Heart Disease",Comprehensive,500000,5000,0,24,448,43000
+EMP082,57,Male,Full-time,22476,None,Diabetes,Comprehensive,750000,0,15,36,11051,23000
+EMP083,22,Male,Part-time,38980,Diabetes,None,Comprehensive,500000,10000,0,52,25722,48000
+EMP084,57,Male,Part-time,86268,Diabetes,None,Comprehensive,500000,0,0,29,49678,42000
+EMP085,28,Female,Contract,7559,None,None,Comprehensive,1000000,0,10,9,3531,27000
+EMP086,41,Female,Full-time,31384,None,None,Comprehensive,750000,5000,0,57,14817,36000
+EMP087,24,Female,Full-time,43273,"Diabetes, Hypertension",Heart Disease,Comprehensive,750000,0,0,30,24041,37000
+EMP088,33,Male,Full-time,70884,Heart Disease,Cancer,Inpatient Only,1000000,5000,10,28,28909,26000
+EMP089,25,Female,Contract,5811,Hypertension,None,Comprehensive,500000,5000,0,10,2804,21000
+EMP090,49,Female,Part-time,41512,None,None,Comprehensive,1000000,5000,15,27,16975,38000
+EMP091,30,Female,Part-time,39979,None,Diabetes,Comprehensive,750000,0,0,29,24660,35000
+EMP092,59,Male,Part-time,37430,Diabetes,Diabetes,Comprehensive,750000,5000,0,4,19294,24000
+EMP093,57,Female,Full-time,2802,None,None,Comprehensive,300000,0,20,40,1858,21000
+EMP094,55,Female,Full-time,49143,None,"Diabetes, Heart Disease",Comprehensive,1000000,0,0,12,21062,50000
+EMP095,36,Male,Full-time,38142,Hypertension,Cancer,Comprehensive,1000000,0,0,8,15966,29000
+EMP096,35,Male,Full-time,38855,"Diabetes, Hypertension",Diabetes,Inpatient+Outpatient,300000,15000,15,55,20661,22000
+EMP097,59,Male,Full-time,6059,None,None,Comprehensive,750000,0,20,17,2739,22000
+EMP098,22,Female,Full-time,20961,None,Cancer,Comprehensive,300000,10000,0,36,9125,43000
+EMP099,55,Female,Full-time,25431,Diabetes,None,Inpatient+Outpatient,750000,0,0,17,16170,28000
+EMP100,26,Female,Full-time,53703,"Hypertension, Asthma",None,Comprehensive,500000,0,10,56,33521,39000

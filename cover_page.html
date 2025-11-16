@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Cover Page</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f8f9fa;
+        }
+        .cover-container {
+            text-align: center;
+            max-width: 600px;
+            padding: 40px;
+            border: 1px solid #3498db;
+            border-radius: 10px;
+            background-color: white;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 30px;
+            font-size: 28px;
+        }
+        .organization {
+            font-size: 22px;
+            color: #3498db;
+            margin-bottom: 30px;
+            font-weight: bold;
+        }
+        .date {
+            font-size: 16px;
+            color: #7f8c8d;
+            margin-top: 30px;
+        }
+        .logo {
+            max-width: 200px;
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cover-container">
+        <img src="data:image/png;base64,{{ logo }}" class="logo" alt="Organization Logo">
+        <h1>Health Insurance Fraud Detection Report</h1>
+        <div class="organization">{{ organization }}</div>
+        <div class="date">Generated on {{ date }}</div>
+    </div>
+</body>
+</html>
